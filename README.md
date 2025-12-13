@@ -4,16 +4,16 @@ A Python-based phishing detection tool that analyzes a given URL using multiple 
 
 ⸻
 
-📌 Features
-	•	🔐 HTTPS Verification – Flags websites not using secure HTTPS
-	•	🌐 IP-based URL Detection – Identifies URLs using raw IP addresses
-	•	🆓 Free Hosting Domain Detection – Detects common free hosting providers
-	•	🧠 Suspicious Keyword Analysis – Scans webpage content for phishing-related terms
-	•	📄 Form Analysis – Flags pages with POST-based data submission forms
-	•	📜 External Script Detection – Identifies scripts loaded from external domains
-	•	🖼️ External Iframe Detection – Detects embedded content from untrusted sources
-	•	🔗 External Link Analysis – Finds suspicious redirection links
-	•	🎨 Terminal Banner UI – Kali Linux–style banner for better CLI experience
+## 📌 Features
+
+- 🔐 **HTTPS Verification** – Flags websites not using secure HTTPS
+- 🌐 **IP-based URL Detection** – Identifies URLs using raw IP addresses
+- 🆓 **Free Hosting Domain Detection** – Detects common free hosting providers
+- 🧠 **Suspicious Keyword Analysis** – Scans webpage content for phishing terms
+- 📄 **Form Analysis** – Flags POST-based data submission forms
+- 📜 **External Script Detection** – Identifies scripts from external domains
+- 🖼️ **External Iframe Detection** – Detects untrusted embedded content
+- 🔗 **External Link Analysis** – Finds suspicious redirection links
 
 ⸻
 
