@@ -65,6 +65,7 @@ Use this tool only for educational and ethical cybersecurity purposes.
 ⸻
 
 📈 Future Improvements
+
 	•	✅ Machine Learning–based phishing classification
 	•	✅ WHOIS domain age analysis
 	•	✅ URL shortening detection
