@@ -1,4 +1,4 @@
-🛡️ Phishing Detector (Kali Linux)
+## 🛡️ Phishing Detector (Kali Linux)
 
 A Python-based phishing detection tool that analyzes a given URL using multiple heuristic checks to identify potentially malicious or phishing websites. This tool is designed for educational, cybersecurity learning, and awareness purposes.
 
@@ -25,24 +25,29 @@ A Python-based phishing detection tool that analyzes a given URL using multiple 
 	•	urllib.parse – URL parsing
 	•	Kali Linux / Linux Terminal
 
-📂 Project Structure
+# 📂 Project Structure
+```
 phishing-detector/
 │
 ├── phishing_detector.py
 ├── README.md
 └── requirements.txt
+```
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
+```
 git clone https://github.com/your-username/phishing-detector.git
 cd phishing-detector
-
+```
 2️⃣ Install Dependencies
+```
 pip3 install requests beautifulsoup4
-
+```
 3️⃣ Run the Tool
+```
 python3 phishing_detector.py
-
+```
 🚀 Usage
 	1.	Run the script in terminal
 	2.	Enter a website URL when prompted
