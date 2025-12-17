@@ -49,6 +49,7 @@ pip3 install requests beautifulsoup4
 python3 phishing_detector.py
 ```
 🚀 Usage
+
 	1.	Run the script in terminal
 	2.	Enter a website URL when prompted
 	3.	The tool scans the site and flags suspicious behavior
